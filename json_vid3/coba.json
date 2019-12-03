@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Zikri Alhaq",
+        "umur": 20,
+        "nrp": "173040027",
+        "lulus": true,
+        "hobby": [
+            "gaming",
+            "eating"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Yogi Nugraha",
+            "pembimbing2": "Erdika Kusumah"
+        }
+    },
+    {
+        "nama": "Rafly Y",
+        "umur": 20,
+        "nrp": "173040028",
+        "lulus": true,
+        "hobby": [
+            "gaming",
+            "editing"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Ichlasul A",
+            "pembimbing2": "M. Fahdy"
+        }
+    }
+]
